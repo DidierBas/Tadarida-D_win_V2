@@ -13,7 +13,7 @@
 #else
 #define LINWIN 1
 #endif
-typedef int64_t  __int64;
+//typedef int64_t  __int64;
 #include <iostream>
 #include <QtCore/qmath.h>
 #include <QDate>
